@@ -26,13 +26,13 @@ When starting a new library based on this template, you must add a **Secret** to
 ### Adding
 
 ```
-git submodule add https://github.com/DaphneWebFramework/TemplateLibrary.git source/classes/TemplateLibrary
+git submodule add https://github.com/DaphneWebFramework/TemplateLibrary.git source/backend/TemplateLibrary
 ```
 
 ### Updating
 
 ```
-git submodule update --remote --merge source/classes/TemplateLibrary
+git submodule update --remote --merge source/backend/TemplateLibrary
 ```
 
 ## See Also
