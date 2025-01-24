@@ -1,5 +1,7 @@
 # TemplateLibrary
 
+[![Backend Tests](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test-backend.yml/badge.svg)](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test-backend.yml)
+
 ![](assets/masthead.png)
 
 > <sub><sup>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere ligula.</sup></sub>
